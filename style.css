@@ -1,0 +1,22 @@
+header,
+nav,
+section,
+article,
+footer{
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 8px;
+}
+
+.boder-grey{
+    border: 1px solid grey;
+}
+
+nav ul{
+    margin: 0%;
+    padding: 0
+}
+nav ul li{
+    margin: 5px;
+    display: inline;
+}
